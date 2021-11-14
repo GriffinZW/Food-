@@ -1,0 +1,15 @@
+body{
+background-color: #e6b543;
+}
+img{
+width: 400;
+height: 200;
+}
+h4{
+font-size: 40px;
+font-family: Brush Script MT;
+}
+.button{
+position: relative;
+bottom:-290px;
+}
